@@ -1,0 +1,18 @@
+{
+  "name": "drewm/slim-commander",
+  "description": "A very simple structure for running CLI commands as part of your Slim Framework application",
+  "keywords": ["slim", "cli"],
+  "homepage": "http://github.com/drewm/slim-commander",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Drew McLellan",
+      "email": "drew.mclellan@gmail.com",
+      "homepage": "https://allinthehead.com/"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "slim/slim": "^3.1"
+  }
+}
